@@ -15,3 +15,8 @@ echo "Session variables are set.";
 
 </body>
 </html>
+<html>
+<body>
+<h1> Hola César!!^^ </h1>
+</body>
+</html>
